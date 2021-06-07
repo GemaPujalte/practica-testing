@@ -5,4 +5,4 @@ export function IsPalindrome(str) {
   return newStr === strReversed ? "es palindromo" : "no es palindromo";
 }
 
-console.log(IsPalindrome("Salta Lenín el atlas")); // es palindromo
+IsPalindrome("Salta Lenín el atlas");

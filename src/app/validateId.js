@@ -34,20 +34,19 @@ function validateId(id) {
     } else {
       const validation = {
         isValid: false,
-        error:
-          "El DNI es incorrecto porque la letra no coincide con la que debería",
+        error: "Incorrect DNI, the letter does not match",
       };
       return validation;
     }
   } else {
     const validation = {
       isValid: false,
-      error: "La longitud no es correcta",
+      error: "Length not valid",
     };
     return validation;
   }
 }
 
-validateId("7114848");
+validateId("742342");
 
 export { idLength, correctLetter, validateId };

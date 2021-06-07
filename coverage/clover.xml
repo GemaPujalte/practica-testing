@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1623100968251" clover="3.2.0">
-  <project timestamp="1623100968251" name="All files">
+<coverage generated="1623104096576" clover="3.2.0">
+  <project timestamp="1623104096578" name="All files">
     <metrics statements="35" coveredstatements="35" conditionals="12" coveredconditionals="12" methods="9" coveredmethods="9" elements="56" coveredelements="56" complexity="0" loc="35" ncloc="35" packages="3" files="6" classes="6"/>
     <package name="fixtures">
       <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
@@ -18,7 +18,7 @@
         <line num="3" count="1" type="stmt"/>
         <line num="5" count="1" type="stmt"/>
       </file>
-      <file name="palindromo.js" path="/Users/gema/Desktop/Practica Testing/practica-testing/src/app/palindromo.js">
+      <file name="palindrome.js" path="/Users/gema/Desktop/Practica Testing/practica-testing/src/app/palindrome.js">
         <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="2" count="3" type="stmt"/>
         <line num="3" count="3" type="stmt"/>
@@ -45,10 +45,10 @@
         <line num="29" count="1" type="stmt"/>
         <line num="33" count="1" type="stmt"/>
         <line num="35" count="1" type="stmt"/>
-        <line num="40" count="1" type="stmt"/>
-        <line num="43" count="2" type="stmt"/>
-        <line num="47" count="2" type="stmt"/>
-        <line num="51" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+        <line num="46" count="2" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
       </file>
     </package>
     <package name="src.posts">

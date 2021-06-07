@@ -1,4 +1,4 @@
-import { IsPalindrome } from "./palindromo";
+import { IsPalindrome } from "./palindrome";
 
 describe("Validate palindromo", () => {
   it("should write Es palindromo when the sentence is a palindrome", () => {
